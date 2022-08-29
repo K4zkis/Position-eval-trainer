@@ -1,5 +1,7 @@
 node_modules/
 .pytest_cache
 samplegame.pgn
+
+#planning
 next-steps.txt
 package-lock.json
