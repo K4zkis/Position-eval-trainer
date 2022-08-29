@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "chessboard-element": "^1.2.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.34"
+  },
+  "name": "learning_js",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K4zkis/Position-eval-trainer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K4zkis/Position-eval-trainer/issues"
+  },
+  "homepage": "https://github.com/K4zkis/Position-eval-trainer#readme",
+  "description": ""
+}

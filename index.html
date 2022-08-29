@@ -1,1 +1,36 @@
-alert("Hello There !")
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>
+        Eval Trainer
+    </h1>
+    
+    <script type="module" src="/node_modules/chessboard-element/index.js"></script>
+    <chess-board
+        draggable-pieces
+        position="start"
+        style="width: 47%">
+    </chess-board>
+<!--
+    <chess-board id="board3"
+        draggable-pieces
+        spare-pieces
+        drop-off-board="trash">
+    </chess-board>
+    <button id="startBtn">Start Position</button>
+    <button id="clearBtn">Clear Board</button>
+-->
+<button id="showPositionBtn">Show position in console</button>
+<button id="startBtn">Start Position</button>
+
+<button id="clearBtn">Clear Board</button>
+<script src="app.js"></script>
+</body>
+</html>
