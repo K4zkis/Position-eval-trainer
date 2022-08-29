@@ -1,0 +1,39 @@
+{
+    "ID": "00001001",
+
+
+
+    "proterties": {
+        "Event": "Rated Blitz Game",
+        "Site": " lichess.org/wAGnn1Ka ",
+        "Date": "2021.12.21",
+        "White": "Feokl1995",
+        "Black": "DrNykterstein",
+        "Result": "0-1",
+        "UTCDate": "2021.12.21",
+        "UTCTime": "17:58:47",
+        "WhiteElo": "3040",
+        "BlackElo": "3197",
+        "WhiteRatingDiff": "-3",
+        "BlackRatingDiff": "+3",
+        "WhiteTitle": "GM",
+        "BlackTitle": "GM",
+        "Variant": "Standard",
+        "TimeControl": "180+0",
+        "ECO": "C67",
+        "Opening": "Ruy Lopez: Berlin Defense, Rio Gambit Accepted",
+        "Termination": "Time forfeit",
+        "Annotator": "lichess.org"
+        
+    },
+    
+    
+    
+    
+    "Game":{
+
+    "Notation":
+    "1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 { C67 Ruy Lopez: Berlin Defense, Rio Gambit Accepted } 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nf5 8. Nf3 O-O 9. d4 d5 10. c3 Re8 11. Bf4 Bd6 12. Rxe8+ Qxe8 13. Qd2 Nce7 14. Bd3 c6 15. a4 a5 16. Na3 Bxf4 17. Qxf4 Ng6 18. Qd2 Nd6 19. Re1 Qd8 20. Ne5 Bf5 21. Bxf5 Nxf5 22. Nc2 Nxe5 23. dxe5 Qb6 24. Nd4 Nxd4 25. cxd4 Qb3 26. Ra1 b6 27. Ra3 Qb4 28. Qd1 c5 29. g3 Rd8 30. Rd3?! { (0.30 → -0.71) Inaccuracy. Rb3 was best. } (30. Rb3 Qxa4 31. dxc5 bxc5 32. Qxd5 Qd4 33. Qxd4 cxd4 34. Kf1 d3 35. Ke1 d2+ 36. Kd1 Kf8) 30... c4 31. Rd2 h6 32. Qc2? { (-0.15 → -1.41) Mistake. f4 was best. } (32. f4) 32... Rc8? { (-1.41 → 0.00) Mistake. b5 was best. } (32... b5 33. axb5 Qxb5 34. Qf5 Qc6 35. Qf4 a4 36. Kg2 Qe6 37. Qe3 Rb8 38. Qa3 Qd7 39. h4) 33. Rd1?! { (0.00 → -0.59) Inaccuracy. Re2 was best. } (33. Re2 b5 34. e6 fxe6 35. axb5 Qxb5 36. Rxe6 Rb8 37. Qf5 Rf8 38. Qc2 Rb8) 33... c3 34. Rb1?? { (-0.37 → -2.45) Blunder. Qf5 was best. } (34. Qf5 Rf8 35. bxc3 Qxa4 36. Rb1 Qc6 37. Qd3 Rb8 38. Qb5 Qxc3 39. Qxd5 Qc2 40. Qb5 a4) 34... Qxd4 35. bxc3 Rxc3 36. Qf5 g6?? { (-2.66 → -0.05) Blunder. Rc6 was best. } (36... Rc6) 37. Qf6 Qe4 38. Rd1 d4 39. Qd8+ Kg7 40. Qf6+ Kg8 41. Qd8+ Kh7 42. Qf6?? { (0.00 → -3.65) Blunder. Qxd4 was best. } (42. Qxd4 Rc4 43. Qd6 Qf5 44. Rd4 b5 45. e6 Rxd4 46. Qxd4 bxa4 47. Qxa4 fxe6 48. Qd7+ Kh8) 42... Rf3 43. Qxb6 d3 44. e6?! { (-4.11 → -5.92) Inaccuracy. Qb2 was best. } (44. Qb2) 44... Qe2 45. Rf1 d2 46. Qb1 Qxe6 47. Qd1 Rd3 48. Qc2 Qe2 49. Rd1 Qe1+ 50. Kg2 Qe4+ 51. Kg1 Rxg3+ 52. hxg3 Qxc2 { Black wins on time. } 0-1"
+    
+    }
+}
